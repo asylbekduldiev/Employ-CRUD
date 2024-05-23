@@ -1,0 +1,7 @@
+.Order-details{
+    flex: 1;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+}

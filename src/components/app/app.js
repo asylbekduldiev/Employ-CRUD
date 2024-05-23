@@ -5,8 +5,12 @@ import SearchPanel from '../search-panel/search-panel';
 import AppFilter from '../app-filter/app-filter';
 import EmployeesList from '../employees-list/employees-list';
 import EmployeesAddForm from '../employees-add-form/employees-add-form';
+import Main from '../Dashboard/main';
+import Order from '../Order/order';
 
 import './app.css';
+import './header.css';
+import './Empl.css'
 
 class App extends Component {
     constructor(props) {
@@ -95,9 +99,42 @@ class App extends Component {
         const visibleData = this.filterPost(this.searchEmp(data, term), filter);
 
         return (
-            <div className="app">
+            <div className='Header'>
+                <div className='main'>
+                    <Main/>
+                </div>
+                <div className='app'>
+                    {/* <AppInfo employees={employees} increased={increased}/> */}
+                <div className="search-panel">
+                    <SearchPanel onUpdateSearch={this.onUpdateSearch}/>
+                    {/* <AppFilter filter={filter} onFilterSelect={this.onFilterSelect}/> */}
+                </div>
+                <div className='Empl'>
+                    <div>
+                        <EmployeesList 
+                            data={visibleData}
+                            onDelete={this.deleteItem}
+                            onToggleProp={this.onToggleProp}/>
+                        <EmployeesAddForm onAdd={this.addItem}/>
+                    </div>
+                        {/* <EmployeesList 
+                            data={visibleData}
+                            onDelete={this.deleteItem}
+                            onToggleProp={this.onToggleProp}/>
+                        <EmployeesAddForm onAdd={this.addItem}/> */}
+                    <div> 
+                        <Order/>  
+                    </div>  
+                </div>
+                
+                {/* <EmployeesList 
+                    data={visibleData}
+                    onDelete={this.deleteItem}
+                    onToggleProp={this.onToggleProp}/>
+                <EmployeesAddForm onAdd={this.addItem}/>   */}
+                </div>
+                {/* <Main/>
                 <AppInfo employees={employees} increased={increased}/>
-    
                 <div className="search-panel">
                     <SearchPanel onUpdateSearch={this.onUpdateSearch}/>
                     <AppFilter filter={filter} onFilterSelect={this.onFilterSelect}/>
@@ -107,7 +144,7 @@ class App extends Component {
                     data={visibleData}
                     onDelete={this.deleteItem}
                     onToggleProp={this.onToggleProp}/>
-                <EmployeesAddForm onAdd={this.addItem}/>
+                <EmployeesAddForm onAdd={this.addItem}/> */}
             </div>
         );
     }

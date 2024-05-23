@@ -1,5 +1,11 @@
 .app {
-    margin: 0 auto;
-    max-width: 1000px;
+    margin: 0 ;
+    /* max-width: 1000px; */
+    /* padding-left: 300px; */
+    flex-grow: 1;
+    /* padding: 20px; */
+    background-color: #ecf0f1;
   }
-  
+  /* flex-grow: 1;
+  padding: 20px;
+  background-color: #ecf0f1; */
