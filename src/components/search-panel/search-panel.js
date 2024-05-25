@@ -42,8 +42,8 @@ class SearchPanel extends Component {
                     onChange={this.onUpdateSearch}/> 
                 <button>Filters</button> */}
                 <div class="user-info">
-                    <span>Olivia Rhye</span>
-                    <span>Admin</span>
+                    <span>Asyl</span>
+                    {/* <span></span> */}
                 </div>
             </header>
         )

@@ -5,8 +5,8 @@ import SearchPanel from '../search-panel/search-panel';
 import AppFilter from '../app-filter/app-filter';
 import EmployeesList from '../employees-list/employees-list';
 import EmployeesAddForm from '../employees-add-form/employees-add-form';
-import Main from '../Dashboard/main';
-import Order from '../Order/order';
+import Main from '../Main/main';
+import Order from '../Order-Details/order';
 
 import './app.css';
 import './header.css';
