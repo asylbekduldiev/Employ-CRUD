@@ -1,31 +1,30 @@
+import React from 'react';
+
+import { Outlet, Link } from 'react-router-dom';
 import './main.css';
-
-import React, { Component } from 'react'
-
-import { Outlet, Link } from "react-router-dom";
-import {Order} from '..Order/order.js'
 
 const Main = () => {
   return (
-    <>
-      <nav>
+    <div className="sidebar">
+      <div className="sidebar-logo">
+        <h2>VIAJIO</h2>
+      </div>
+      <nav className='Nav'>
         <ul>
           <li>
             <Link to="/">Dashboard</Link>
           </li>
           <li>
-            <Link to={Order}>Orders</Link>
+            <Link to="/orders">Orders</Link>
           </li>
           <li>
-            <Link to="./Users">Users</Link>
+            <Link to="/programs">Programs</Link>
           </li>
         </ul>
       </nav>
-
       <Outlet />
-    </>
-  )
+    </div>
+  );
 };
-
 
 export default Main;

@@ -1,12 +1,16 @@
 import { Component } from "react"
-import './order.css'
 
 class Order extends Component{
     render(){
         return(
-            <div><li></li></div>
+            <div>
+                <div>
+                    <li>suuui</li>
+                    <h1>ronaldo</h1>
+                </div>
+            </div>
         )
     }
 }
 
-export default Order
+export default Order;

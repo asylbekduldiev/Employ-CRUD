@@ -1,0 +1,9 @@
+*{
+    box-sizing: content-box;
+}
+.Header{
+    max-width: 100%;
+    margin: 0;
+    /* display: flex; */
+    /* padding-right: 20px; */
+}
