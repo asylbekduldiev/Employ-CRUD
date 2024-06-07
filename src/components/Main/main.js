@@ -15,10 +15,13 @@ const Main = () => {
             <Link to="/">Dashboard</Link>
           </li>
           <li>
-            <Link to="/orders">Orders</Link>
+            <Link to="/Workouts">Workouts</Link>
           </li>
           <li>
-            <Link to="/programs">Programs</Link>
+            <Link to="/Users">Users</Link>
+          </li>
+          <li>
+            <Link to="/Goals">Goals</Link>
           </li>
         </ul>
       </nav>

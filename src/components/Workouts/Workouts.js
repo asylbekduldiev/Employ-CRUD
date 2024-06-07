@@ -1,6 +1,8 @@
 import { Component } from "react"
 
-class Order extends Component{
+import './Workouts.css'
+
+class Workouts extends Component{
     render(){
         return(
             <div>
@@ -13,4 +15,4 @@ class Order extends Component{
     }
 }
 
-export default Order;
+export default Workouts;

@@ -5,7 +5,7 @@ import SearchPanel from '../Dashboard/search-panel/search-panel';
 import EmployeesList from '../Dashboard/employees-list/employees-list';
 import EmployeesAddForm from '../Dashboard/employees-add-form/employees-add-form';
 import Main from '../Main/main';
-import Order from '../Order-Details/order';
+import Order from './Order-Details/order';
 
 
 import './dashboard.css';

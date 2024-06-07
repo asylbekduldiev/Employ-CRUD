@@ -3,7 +3,9 @@ import React from "react";
 const Users = () => {
   return(
     <div>
-      asda
+      <h1>adsda</h1>
     </div>
   )
 }
+
+export default Users;
