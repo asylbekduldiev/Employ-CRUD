@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 // import AppInfo from '../app-info/app-info';
-import SearchPanel from '../Dashboard/search-panel/search-panel';
+import SearchPanel from './search-panel/search-panel';
 // import AppFilter from '../app-filter/app-filter';
-import EmployeesList from '../Dashboard/employees-list/employees-list';
-import EmployeesAddForm from '../Dashboard/employees-add-form/employees-add-form';
-import Main from '../Main/main';
+import EmployeesList from './employees-list/employees-list';
+import EmployeesAddForm from './employees-add-form/employees-add-form';
 import Order from './Order-Details/order';
 
 
