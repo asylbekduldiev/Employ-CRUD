@@ -1,0 +1,1094 @@
+{
+    "id": null,
+    "title": "JANA MEN",
+    "description": null,
+    "posterUrl": null,
+    "types": null,
+    "goals": [
+        {
+            "id": "66fc4218-9e86-4c73-8238-e97a8ba547c5",
+            "number": 1,
+            "title": "Неделя 1 День 1 (ПН)",
+            "description": "Неделя 1 День 1",
+            "status": "ACTIVE",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.055509316",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "ee5b59d8-83a9-413a-8f01-f4f49a81e82d",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "75d30113-3877-48d6-9871-9487e3b8ff59",
+                "title": "Беспокойство 1 день",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "6273fc8f-f038-43a0-b959-3d2fed6afc32",
+                "title": "Неделя 1 День 1",
+                "score": 500,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": false,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "8d512ce6-a0bd-4e34-a3cc-83d5bd68a419",
+            "number": 2,
+            "title": "Неделя 1 День 2 (СР)",
+            "description": "Неделя 1 День 2",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.061954926",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "6789d603-b212-4778-b65b-08589a1261de",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "7bef3379-f86a-4bb3-bccf-c4cfbf5767b7",
+                "title": "Беспокойство 2 день",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "badd5616-5f43-4859-9997-20aee97fa32f",
+                "title": "Неделя 1 День 2",
+                "score": 800,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "d9af48fe-f753-4ca9-b569-aa72a43fc0e0",
+            "number": 3,
+            "title": "Неделя 1 День 3 (ПТ)",
+            "description": "Неделя 1 День 3",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.068288736",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "35c7db98-ff19-4db0-ae63-4c8862f9d7be",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "15a71f06-2257-497d-9474-fd03ad98b85a",
+                "title": "Беспокойство 3 день",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "ad49b6fc-7b43-4b75-bc02-2aa003ec2e28",
+                "title": "Неделя 1 День 3 (Пятница)",
+                "score": 1000,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "9d70faaf-6c64-4044-8508-f8ce949750f9",
+            "number": 4,
+            "title": "Неделя 2 День 1 (ПН)",
+            "description": "Неделя 2 День 1",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.074392965",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "c4eae2b9-fab2-4974-91e7-1d0454e5a776",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "a44478c4-4308-4ef5-a124-631bb8d23e6f",
+                "title": "Релакс День 1",
+                "score": 800,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "418f4b62-308d-4b06-8ad8-78bbc7f3488f",
+                "title": "Неделя 2 День 1",
+                "score": 1000,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "6c4ec545-58dd-4492-9608-2acf0bee65ba",
+            "number": 5,
+            "title": "Неделя 2 День 2 (СР)",
+            "description": "Неделя 2 День 2",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.081247594",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "fa3dda7b-8aae-4e26-b566-f77de4131675",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "7b0a207e-94c1-4aa4-82e9-8e722ca43120",
+                "title": "Релакс День 2",
+                "score": 800,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "7cc6caba-34c9-41b0-83da-7270f0da582b",
+                "title": "Неделя 2 День 2",
+                "score": 1200,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "17dbddbe-dbb0-467e-887a-a98b8f195283",
+            "number": 6,
+            "title": "Неделя 2 День 3 (ПТ)",
+            "description": "Неделя 2 День 3",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.088990544",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "63ad4002-e6c4-4ef2-be8d-971eb3622da6",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "09b385cb-9c9b-40d1-a087-73a7489bd0ce",
+                "title": "Релакс День 3",
+                "score": 800,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "5ff5731c-1a0e-4a3c-9ca3-12ea499f8679",
+                "title": "Неделя 2 День 3",
+                "score": 1200,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-08T07:12:28",
+            "updatedAt": "2024-04-08T07:12:28"
+        },
+        {
+            "id": "d32cf37c-c83a-4f57-9d35-5da4de4fb593",
+            "number": 7,
+            "title": "Неделя 3 День 1 (ПН)",
+            "description": "Неделя 3 День 1",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.095761864",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "fa3a6f0c-e3ce-48ec-ba0f-70c7ce994e78",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "9f92792e-331e-4be4-8589-128e4b1be57c",
+                "title": "Благодарность. День 1",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "8b724f06-9961-4d40-a0e8-f40e2f562ad7",
+                "title": "Неделя 3 День 1",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-29T09:49:01",
+            "updatedAt": "2024-04-29T09:49:01"
+        },
+        {
+            "id": "ea7557bc-9f98-4d84-bed1-c956927a32d5",
+            "number": 8,
+            "title": "Неделя 3 День 2 (ВТ)",
+            "description": "Неделя 3 День 2",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.102409153",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "0fec1b41-a44e-4091-9ac5-a328680514b3",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "c4b77b78-1563-4b60-934b-18aa9b91ef1f",
+                "title": "Благодарность. День 2",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "efe95c45-1fed-40b8-a1ce-e12aa1f54cd7",
+                "title": "Неделя 3 День 2",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-04-30T10:30:22",
+            "updatedAt": "2024-04-30T10:30:24"
+        },
+        {
+            "id": "143ecea3-5e93-4afc-806b-6c9267e0b232",
+            "number": 9,
+            "title": "Неделя 3 День 3 (СР)",
+            "description": "Неделя 3 День 3",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.109091103",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "e1242c79-ee87-4650-9195-862556d79451",
+                "title": "Разработай свой ум",
+                "score": 400,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "c4bd27bc-e54e-420b-bc9d-aa20e449553a",
+                "title": "Благодарность. День 3",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "90c0656f-7d32-4418-a8c5-b2288cb3cf76",
+                "title": "Неделя 3 День 3",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-01T12:59:48",
+            "updatedAt": "2024-05-01T12:59:48"
+        },
+        {
+            "id": "bf41d8f4-e926-4297-a07b-45465e73563b",
+            "number": 10,
+            "title": "Неделя 3 День 4 (ЧТ)",
+            "description": "Неделя 3 День 4",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.115563073",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "235157a7-7c16-469f-bedf-e1725b9be952",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "5686fdd4-26a0-457a-8d4a-998029e62bf9",
+                "title": "Благодарность. День 4",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "d77bda33-fa92-41df-b19a-1212d40cb4a4",
+                "title": "Неделя 3 День 4",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-02T11:20:26",
+            "updatedAt": "2024-05-02T11:20:35"
+        },
+        {
+            "id": "20c42de2-efa8-48d5-9c73-19a80ecbe544",
+            "number": 11,
+            "title": "Неделя 3 День 5 (ПТ)",
+            "description": "Неделя 3 День 5",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.122064952",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "98f8a63d-d97f-4fa1-9ff2-ad1f5028eb8d",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "a39019b9-07e7-42d0-bc90-7c60e968df02",
+                "title": "Благодарность. День 5",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "935712eb-6bb2-40b8-a103-ddf271f0704a",
+                "title": "Неделя 3 День 5",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-03T08:43:22",
+            "updatedAt": "2024-05-03T08:43:22"
+        },
+        {
+            "id": "284888fe-14d6-4d3c-b7fc-d0a3391c1483",
+            "number": 12,
+            "title": "Неделя 3 День 6 (CБ)",
+            "description": "Неделя 3 День 6",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.132464681",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "529df1be-69db-4ce9-acef-04d9a3b6e0c0",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "711bd8ea-dff5-4d97-8aa0-08dd07bb5f62",
+                "title": "Благодарность. День 6",
+                "score": 900,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "e022d3d4-db0d-4197-a416-0f65071db1f9",
+                "title": "Неделя 3 День 6",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-04T11:03:51",
+            "updatedAt": "2024-05-04T11:03:51"
+        },
+        {
+            "id": "cbb26ea0-bd62-4f20-8510-f5d8122345c6",
+            "number": 13,
+            "title": "Неделя 4 День 1 (ПН)",
+            "description": "Неделя 4 День 1",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.139534881",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "5cf5add0-d6dd-4ce4-951a-310f1567b713",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "86bc52af-68de-4662-8bd3-bb8a5788439a",
+                "title": "Любящая доброта День 1",
+                "score": 1000,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "2d48e5fc-1f90-4ff3-a901-642aed9d286c",
+                "title": "Неделя 4 День 1",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-06T10:23:54",
+            "updatedAt": "2024-05-06T10:23:56"
+        },
+        {
+            "id": "b3d72fd8-72bb-48ce-a4b6-c480a662c62d",
+            "number": 14,
+            "title": "Неделя 4 День 2 (ВТ)",
+            "description": "Неделя 4 День 2",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.146524581",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "8022f94c-fa26-4fe9-94ac-ff2e34ea5219",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "4faaf0b1-02f6-4569-ba2c-d200116c9173",
+                "title": "Любящая доброта День 2",
+                "score": 1000,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "367e4f1e-f4ac-4219-9ab8-1d41a2964642",
+                "title": "Неделя 4 День 2",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-07T10:47:22",
+            "updatedAt": "2024-05-07T10:47:22"
+        },
+        {
+            "id": "5a989fcd-3623-42a4-bdc8-ba52eb3bd4b6",
+            "number": 15,
+            "title": "Неделя 4 День 3 (СР)",
+            "description": "Неделя 4 День 3",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.15315255",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "5e4f4739-e568-4441-8e7d-b7f6175d7cc2",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "a4f93c3b-bf6d-4c94-b7e4-3a3bb40d29ac",
+                "title": "Любящая доброта День 3",
+                "score": 1000,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "fc6e64e8-1503-473d-982c-3390a62051f3",
+                "title": "Неделя 4 День 3",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-08T10:37:46",
+            "updatedAt": "2024-05-08T10:37:46"
+        },
+        {
+            "id": "27c12ba0-c6fd-4fb0-baf2-3b1a36059384",
+            "number": 16,
+            "title": "Неделя 4 День 4 (ЧТ)",
+            "description": "Неделя 4 День 4",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.15963059",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "5f66fbaa-6b9a-4163-b202-068ea1060615",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "ae72ee77-6bae-4320-9b0f-f45e54ffd902",
+                "title": "Любящая доброта День 4",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "cd132e70-5cf3-4725-b83e-2c8cd985cd4b",
+                "title": "Неделя 4 День 4",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-09T11:09:48",
+            "updatedAt": "2024-05-09T11:09:48"
+        },
+        {
+            "id": "438a9686-5441-4e6b-be87-687ecfeaacd0",
+            "number": 17,
+            "title": "Неделя 4 День 5 (ПТ)",
+            "description": "Неделя 4 День 5",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.16695581",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "ba2ef2d1-e8cb-42a9-9c91-ed743722e3c4",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "b71a5282-5039-4205-a5ba-d3b0fb672767",
+                "title": "Любящая доброта День 5",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "30ea039b-31de-495e-97e8-21c0ea60cdf6",
+                "title": "Неделя 4 День 5",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-10T19:22:29",
+            "updatedAt": "2024-05-10T19:22:29"
+        },
+        {
+            "id": "02056ba0-d368-45dc-8a53-3fdf59939be6",
+            "number": 18,
+            "title": "Неделя 4 День 6 (СБ)",
+            "description": "Неделя 4 День 6 (СБ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.174271239",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "a51f7ec3-e6e1-4ec1-b3b2-2e87eb126214",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "b285bbae-9b1e-4edd-bd0e-b5b138566674",
+                "title": "Любящая доброта День 6",
+                "score": 500,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "b6dcf1fa-15ef-47a8-af98-d57569255760",
+                "title": "Неделя 4 День 6",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-11T12:10:56",
+            "updatedAt": "2024-05-11T12:10:56"
+        },
+        {
+            "id": "94a2e86d-36e7-4f46-92bf-95f6c53f6e7f",
+            "number": 19,
+            "title": "Неделя 5 День 1 (ВТ)",
+            "description": "Неделя 5 День 1 (ВТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.180845239",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "fe7b47a3-81de-43ba-b316-b7ef23075e20",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "d469d35a-4a88-4f6f-8927-8262ba41a75f",
+                "title": "Отсустует",
+                "score": 0,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "8242447c-fdef-4fb9-9e89-15a1d7e65beb",
+                "title": "Неделя 5 День 1",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-14T18:07:57",
+            "updatedAt": "2024-05-14T18:07:57"
+        },
+        {
+            "id": "3c99548b-a77e-4774-b4f1-56d8e6b83b92",
+            "number": 20,
+            "title": "Неделя 5 День 2 (СР)",
+            "description": "Неделя 5 День 2 (СР)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.187530749",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "998f34d9-694d-4519-99e0-05a959a2edb2",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "9a6e1739-a7f9-4929-96c8-3967eba8eff4",
+                "title": "Отсустует",
+                "score": 0,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "0408bb69-dc69-45a8-9e41-83ef4d9d7c59",
+                "title": "Неделя 5 День 2",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-15T16:56:29",
+            "updatedAt": "2024-05-15T16:56:29"
+        },
+        {
+            "id": "ae44928f-8be6-49be-bdb1-01d9ef07d908",
+            "number": 21,
+            "title": "Неделя 5 День 3 (ЧТ)",
+            "description": "Неделя 5 День 3 (ЧТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.194765798",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "6cd0bb30-86e4-4798-88e6-b9c10faa8021",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "15b3034c-2dbc-43f7-adfa-b46cd20a5dcc",
+                "title": "Отсустует",
+                "score": 0,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "acbba655-7ae1-4fcc-89fa-aca0238ca338",
+                "title": "Неделя 5 День 3",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-16T08:11:25",
+            "updatedAt": "2024-05-16T08:11:25"
+        },
+        {
+            "id": "77167b6e-94b0-4657-b311-356394433932",
+            "number": 22,
+            "title": "Неделя 5 День 4 (ПТ)",
+            "description": "Неделя 5 День 4 (ПТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.202234098",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": {
+                "id": "8136f68f-974f-423a-b5c5-1f34bd4ec652",
+                "title": "Отсутствуют",
+                "score": 0,
+                "type": "MIND",
+                "priority": 3
+            },
+            "soulTask": {
+                "id": "6bc352a4-b23b-44e3-9544-875c23d67d7a",
+                "title": "Отсустует",
+                "score": 0,
+                "type": "SOUL",
+                "priority": 2
+            },
+            "bodyTask": {
+                "id": "9655ec8f-6505-40a7-8d4a-a7a6ce314c73",
+                "title": "Неделя 5 День 4",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-17T12:18:20",
+            "updatedAt": "2024-05-17T12:18:20"
+        },
+        {
+            "id": "f02ea9f7-3764-43d4-b0c8-10eb1ecb144d",
+            "number": 23,
+            "title": "Неделя 6 День 1 (ПН)",
+            "description": "Неделя 6 День 1 (ПН)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.209361667",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "a8a83ca4-567c-4e82-add0-24647f3d7b4d",
+                "title": "Неделя 6 День 1",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-20T09:07:22",
+            "updatedAt": "2024-05-20T09:07:22"
+        },
+        {
+            "id": "32884f4d-a489-4dd2-8e35-47a9669119fb",
+            "number": 24,
+            "title": "Неделя 6 День 2 (ВТ)",
+            "description": "Неделя 6 День 2 (ВТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.215771917",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "2996b587-47c3-432f-88a1-d9f82a794eda",
+                "title": "Неделя 6 День 2",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-21T11:13:13",
+            "updatedAt": "2024-05-21T11:13:13"
+        },
+        {
+            "id": "20e7e354-93e4-4949-9703-1d39685ae8ee",
+            "number": 25,
+            "title": "Неделя 6 День 3 (СР)",
+            "description": "Неделя 6 День 3 (СР)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.223080266",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "07455ba0-7e22-46a1-a193-abf9a78f7021",
+                "title": "Неделя 6 День 3",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-22T11:06:18",
+            "updatedAt": "2024-05-22T11:06:18"
+        },
+        {
+            "id": "4f682db4-4a22-45ea-a4c4-fea527f472b8",
+            "number": 26,
+            "title": "Неделя 6 День 4 (ЧТ)",
+            "description": "Неделя 6 День 4 (ЧТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.230735846",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "50597ce4-f73a-433f-a3a7-af4880ef8278",
+                "title": "Неделя 6 День 4",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-23T11:30:37",
+            "updatedAt": "2024-05-23T11:30:37"
+        },
+        {
+            "id": "5dcd5a00-f934-441e-8a6f-faddf768c1d7",
+            "number": 27,
+            "title": "Неделя 6 День 5 (СБ)",
+            "description": "Неделя 6 День 5 (СБ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.237851826",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "662bb6e1-4400-4353-867a-73d108422d33",
+                "title": "Неделя 6 День 5",
+                "score": 1100,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-25T13:04:00",
+            "updatedAt": "2024-05-25T13:04:00"
+        },
+        {
+            "id": "c71fe867-6350-4b8a-b2b8-bba4ed26bf41",
+            "number": 28,
+            "title": "Неделя 7 День 1 (ПН)",
+            "description": "Неделя 7 День 1 (ПН)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.245871585",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "f7847b2a-af4d-4507-89a6-18254298fa70",
+                "title": "Неделя 7 День 1",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-27T12:09:35",
+            "updatedAt": "2024-05-27T12:09:35"
+        },
+        {
+            "id": "7f2899ee-15e2-4650-bd12-fd770b99e165",
+            "number": 29,
+            "title": "Неделя 7 День 2 (ВТ)",
+            "description": "Неделя 7 День 2 (ВТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.252270774",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "ae9d2a45-f18c-4fb9-8c5c-a978aab61c01",
+                "title": "Неделя 7 День 2",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-28T12:29:35",
+            "updatedAt": "2024-05-28T12:29:34"
+        },
+        {
+            "id": "c0a9f6b6-6820-4ffc-95d4-3b8758046f4b",
+            "number": 30,
+            "title": "Неделя 7 День 3 (СР)",
+            "description": "Неделя 7 День 3 (СР)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.259063414",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "dce959b3-47f8-4d1f-8703-333775f4bd6f",
+                "title": "Неделя 7 День 3",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-29T13:07:02",
+            "updatedAt": "2024-05-29T13:07:02"
+        },
+        {
+            "id": "b4587769-f739-4b8f-b255-6f90a9e91350",
+            "number": 31,
+            "title": "Неделя 7 День 4 (ЧТ)",
+            "description": "Неделя 7 День 4 (ЧТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.266240134",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "b3b6df26-64e5-4726-924c-bfd56eba769a",
+                "title": "Неделя 7 День 4",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-30T11:52:44",
+            "updatedAt": "2024-05-30T11:52:45"
+        },
+        {
+            "id": "c0339dee-25fd-4ccb-af22-b97dc3ef5c89",
+            "number": 32,
+            "title": "Неделя 7 День 5 (ПТ)",
+            "description": "Неделя 7 День 5 (ПТ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.273544824",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "bd0ab62b-11d3-4ffe-99fc-482b4928e3a1",
+                "title": "Неделя 7 День 5",
+                "score": 1300,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-05-31T12:25:21",
+            "updatedAt": "2024-05-31T12:25:22"
+        },
+        {
+            "id": "e547c567-b15f-4201-9f47-089a5a30ea31",
+            "number": 33,
+            "title": "Неделя 7 День 6 (СБ)",
+            "description": "Неделя 7 День 6 (СБ)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.280938143",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "2a15b7f8-da93-418b-9b76-2765ae93d155",
+                "title": "Неделя 7 День 6",
+                "score": 900,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-06-01T13:21:32",
+            "updatedAt": "2024-06-01T13:21:32"
+        },
+        {
+            "id": "08904ddb-755a-42ea-b2b1-2f3a1dcd05f0",
+            "number": 34,
+            "title": "Неделя 8 День 1 (ПН)",
+            "description": "Неделя 8 День 1 (ПН)",
+            "status": "LOCKED",
+            "iconUrl": "void",
+            "dueDate": "2024-06-04T14:08:53.287640813",
+            "openingDate": null,
+            "showTimer": false,
+            "goalTasks": null,
+            "mindTask": null,
+            "soulTask": null,
+            "bodyTask": {
+                "id": "8beb27c9-6a40-48c0-be33-ece6f0c7db33",
+                "title": "Неделя 8 День 1",
+                "score": 1200,
+                "type": "BODY",
+                "priority": 1
+            },
+            "subscriptionRequired": true,
+            "createdAt": "2024-06-03T13:01:36",
+            "updatedAt": "2024-06-03T13:01:38"
+        }
+    ],
+    "type": "EVENT",
+    "locked": false,
+    "openDate": null,
+    "subscriptionRequired": null,
+    "policyLink": null
+}
