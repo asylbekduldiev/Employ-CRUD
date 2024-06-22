@@ -1,4 +1,4 @@
-export interface GoalTask {
+export interface Task {
     id: string;
     title: string;
     score: number;
@@ -14,36 +14,23 @@ export interface Goal {
     status: string;
     iconUrl: string;
     dueDate: string;
-    openingDate: string;
+    openingDate: string | null;
     showTimer: boolean;
-    goalTasks: GoalTask[];
-    mindTask: GoalTask;
-    soulTask: GoalTask;
-    bodyTask: GoalTask;
+    goalTasks: any | null;
+    mindTask: Task | null;
+    soulTask: Task | null;
+    bodyTask: Task | null;
     subscriptionRequired: boolean;
     createdAt: string;
     updatedAt: string;
 }
 
-export interface Item {
-    id: string;
-    title: string;
-    description: string;
-    posterUrl: string;
-    types: string[];
-    goals: Goal[];
-    type: string;
-    locked: boolean;
-    openDate: string;
-    subscriptionRequired: boolean;
-    policyLink: string;
-}
-
 export interface Data {
-    items: Item[];
-    size: number;
-    count: number;
-    page: number;
-    pageTotal: number;
-    userItems: Item[];
+    id: string | null;
+    title: string;
+    description: string | null;
+    posterUrl: string | null;
+    types: string | null;
+    goals: Goal[];
+    policyLink: string | null;
 }

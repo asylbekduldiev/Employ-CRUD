@@ -2,10 +2,10 @@ import React from 'react';
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Dashboard from './components/Dashboard/dashboard';
-import Orders from './components/Workouts/Workouts';
 import Users from './components/Users/Users';
 import Main from './components/Main/main';
 import Goals from './components/Goals/Goals';
+import Workouts from './components/Workouts/Workouts';
 import './App.css';
 
 const App = () => {
@@ -19,7 +19,6 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path='/workouts' element={<Workouts />}/>
-            <Route path="/orders" element={<Orders />} />
             <Route path="/users" element={<Users />} />
             <Route path='/goals' element={<Goals/>}/>
           </Routes>

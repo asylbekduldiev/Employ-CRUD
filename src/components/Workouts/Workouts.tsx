@@ -1,49 +1,39 @@
-import React, { useEffect, useState } from 'react';
-import { getAllItems, getItemById, createItem, updateItem, deleteItem } from './apiclients';
-import { Item } from './interfaces';
-import '../Workouts/Workouts.css';
+import React from 'react';
+import data from './data.json';  
+import { Data } from './interfaces';
+
+const appData: Data = data as Data;
 
 const Workouts: React.FC = () => {
-    const [items, setItems] = useState<Item[]>([]);
-    const [selectedItem, setSelectedItem] = useState<Item | null>(null);
-
-    useEffect(() => {
-        const fetchItems = async () => {
-            const data = await getAllItems();
-            setItems(data.items);
-        };
-
-        fetchItems();
-    }, []);
-
-    const handleGetItem = async (id: string) => {
-        const item = await getItemById(id);
-        setSelectedItem(item);
-    };
-
-    const handleCreateItem = async (newItem: Item) => {
-        const createdItem = await createItem(newItem);
-        setItems([...items, createdItem]);
-    };
-
-    const handleUpdateItem = async (id: string, updatedItem: Item) => {
-        const item = await updateItem(id, updatedItem);
-        setItems(items.map(i => i.id === id ? item : i));
-    };
-
-    const handleDeleteItem = async (id: string) => {
-        await deleteItem(id);
-        setItems(items.filter(i => i.id !== id));
-    };
-
     return (
         <div>
-            <h1>Items</h1>
-            <ul>
-                {items.map(item => (
-                    <li key={item.id}>{item.title}</li>
-                ))}
-            </ul>
+            <h1>{appData.title}</h1>
+            {appData.goals.map(goal => (
+                <div key={goal.id}>
+                    <h2>{goal.title}</h2>
+                    <p>{goal.description}</p>
+                    <p>Status: {goal.status}</p>
+                    <p>Due Date: {new Date(goal.dueDate).toLocaleDateString()}</p>
+                    <h3>Tasks:</h3>
+                    <ul>
+                        {goal.mindTask && (
+                            <li>
+                                <strong>Mind Task:</strong> {goal.mindTask.title} - Score: {goal.mindTask.score}
+                            </li>
+                        )}
+                        {goal.soulTask && (
+                            <li>
+                                <strong>Soul Task:</strong> {goal.soulTask.title} - Score: {goal.soulTask.score}
+                            </li>
+                        )}
+                        {goal.bodyTask && (
+                            <li>
+                                <strong>Body Task:</strong> {goal.bodyTask.title} - Score: {goal.bodyTask.score}
+                            </li>
+                        )}
+                    </ul>
+                </div>
+            ))}
         </div>
     );
 };
