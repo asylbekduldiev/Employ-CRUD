@@ -6,11 +6,20 @@ import EmployeesList from './employees-list/employees-list';
 import EmployeesAddForm from './employees-add-form/employees-add-form';
 import Order from './Order-Details/order';
 
+import styled from 'styled-components'
 
 import './dashboard.css';
 import './header.css';
 import './Empl.css';
 
+const app = styled.div`
+    .app {
+    margin: 0 ;
+    flex-grow: 1;
+    background-color: #ecf0f1;
+    
+  }
+`
 
 class Dashboard extends Component {
     constructor(props) {
@@ -132,7 +141,7 @@ class Dashboard extends Component {
                     onDelete={this.deleteItem}
                     onToggleProp={this.onToggleProp}/>
                 <EmployeesAddForm onAdd={this.addItem}/>   */}
-                </div>
+                </>
                 {/* <Main/>
                 <AppInfo employees={employees} increased={increased}/>
                 <div className="search-panel">

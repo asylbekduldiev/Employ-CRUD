@@ -1,0 +1,21 @@
+.diamond {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    transform: rotate(45deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 50px auto;
+}
+  
+.diamond::before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: inherit;
+    transform: rotate(45deg);
+}
+  

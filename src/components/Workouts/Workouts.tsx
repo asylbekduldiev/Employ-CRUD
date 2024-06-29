@@ -2,6 +2,10 @@ import React from 'react';
 import data from './data.json';  
 import { Data } from './interfaces';
 
+import styled from 'styled-components'
+
+import '../Workouts/Workouts.css'
+
 const appData: Data = data as Data;
 
 const Workouts: React.FC = () => {
@@ -10,6 +14,7 @@ const Workouts: React.FC = () => {
             <h1>{appData.title}</h1>
             {appData.goals.map(goal => (
                 <div key={goal.id}>
+                    <div className="rhombus step4"></div>
                     <h2>{goal.title}</h2>
                     <p>{goal.description}</p>
                     <p>Status: {goal.status}</p>
